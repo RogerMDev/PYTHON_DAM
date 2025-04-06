@@ -1,0 +1,147 @@
+<llibres>
+  <llibre>
+    <titol>1984</titol>
+    <autor>George Orwell</autor>
+    <pagines>100</pagines>
+  </llibre>
+  <llibre>
+    <titol>El Petit Príncep</titol>
+    <autor>Antoine de Saint-Exupéry</autor>
+    <pagines>200</pagines>
+  </llibre>
+  <llibre>
+    <titol>HOLA MON</titol>
+    <autor>ROGER MATEO</autor>
+    <pagines>300</pagines>
+  </llibre>
+  <llibre>
+    <titol>Don Quixot</titol>
+    <autor>Miguel de Cervantes</autor>
+    <pagines>863</pagines>
+  </llibre>
+  <llibre>
+    <titol>La Divina Comèdia</titol>
+    <autor>Dante Alighieri</autor>
+    <pagines>432</pagines>
+  </llibre>
+  <llibre>
+    <titol>Orgull i prejudici</titol>
+    <autor>Jane Austen</autor>
+    <pagines>279</pagines>
+  </llibre>
+  <llibre>
+    <titol>El Gran Gatsby</titol>
+    <autor>F. Scott Fitzgerald</autor>
+    <pagines>180</pagines>
+  </llibre>
+  <llibre>
+    <titol>Harry Potter i la pedra filosofal</titol>
+    <autor>J.K. Rowling</autor>
+    <pagines>309</pagines>
+  </llibre>
+  <llibre>
+    <titol>El Senyor dels Anells</titol>
+    <autor>J.R.R. Tolkien</autor>
+    <pagines>1178</pagines>
+  </llibre>
+  <llibre>
+    <titol>Crim i càstig</titol>
+    <autor>Fiódor Dostoievski</autor>
+    <pagines>671</pagines>
+  </llibre>
+  <llibre>
+    <titol>Ulisses</titol>
+    <autor>James Joyce</autor>
+    <pagines>730</pagines>
+  </llibre>
+  <llibre>
+    <titol>Anna Karenina</titol>
+    <autor>Lev Tolstoi</autor>
+    <pagines>864</pagines>
+  </llibre>
+  <llibre>
+    <titol>Matar un rossinyol</titol>
+    <autor>Harper Lee</autor>
+    <pagines>281</pagines>
+  </llibre>
+  <llibre>
+    <titol>El vigilant en el camp de sègol</titol>
+    <autor>J.D. Salinger</autor>
+    <pagines>214</pagines>
+  </llibre>
+  <llibre>
+    <titol>Les aventures de Sherlock Holmes</titol>
+    <autor>Arthur Conan Doyle</autor>
+    <pagines>307</pagines>
+  </llibre>
+  <llibre>
+    <titol>La Metamorfosi</titol>
+    <autor>Franz Kafka</autor>
+    <pagines>201</pagines>
+  </llibre>
+  <llibre>
+    <titol>Les mil i una nits</titol>
+    <autor>Anonim</autor>
+    <pagines>875</pagines>
+  </llibre>
+  <llibre>
+    <titol>Viatge al centre de la Terra</titol>
+    <autor>Jules Verne</autor>
+    <pagines>240</pagines>
+  </llibre>
+  <llibre>
+    <titol>El retrat de Dorian Gray</titol>
+    <autor>Oscar Wilde</autor>
+    <pagines>254</pagines>
+  </llibre>
+  <llibre>
+    <titol>La casa de Bernarda Alba</titol>
+    <autor>Federico García Lorca</autor>
+    <pagines>95</pagines>
+  </llibre>
+  <llibre>
+    <titol>Cien años de soledad</titol>
+    <autor>Gabriel García Márquez</autor>
+    <pagines>471</pagines>
+  </llibre>
+  <llibre>
+    <titol>Rayuela</titol>
+    <autor>Julio Cortázar</autor>
+    <pagines>591</pagines>
+  </llibre>
+  <llibre>
+    <titol>Fahrenheit 451</titol>
+    <autor>Ray Bradbury</autor>
+    <pagines>194</pagines>
+  </llibre>
+  <llibre>
+    <titol>Dràcula</titol>
+    <autor>Bram Stoker</autor>
+    <pagines>418</pagines>
+  </llibre>
+  <llibre>
+    <titol>La sombra del viento</titol>
+    <autor>Carlos Ruiz Zafón</autor>
+    <pagines>576</pagines>
+  </llibre>
+  <llibre>
+    <titol>Los pilares de la Tierra</titol>
+    <autor>Ken Follett</autor>
+    <pagines>1032</pagines>
+  </llibre>
+  <llibre>
+    <titol>Sapiens</titol>
+    <autor>Yuval Noah Harari</autor>
+    <pagines>512</pagines>
+  </llibre>
+  <llibre>
+    <titol>La Bíblia</titol>
+    <autor>Varis autors</autor>
+    <pagines>1500</pagines>
+  </llibre>
+  <llibre>
+    <titol>El alquimista</titol>
+    <autor>Paulo Coelho</autor>
+    <pagines>192</pagines>
+  </llibre>
+</llibres>

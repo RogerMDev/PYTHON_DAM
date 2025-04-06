@@ -1,0 +1,147 @@
+[
+    {
+        "titol": "1984",
+        "autor": "George Orwell",
+        "pagines": "100"
+    },
+    {
+        "titol": "El Petit Príncep",
+        "autor": "Antoine de Saint-Exupéry",
+        "pagines": "200"
+    },
+    {
+        "titol": "HOLA MON",
+        "autor": "ROGER MATEO",
+        "pagines": "300"
+    },
+    {
+        "titol": "Don Quixot",
+        "autor": "Miguel de Cervantes",
+        "pagines": "863"
+    },
+    {
+        "titol": "La Divina Comèdia",
+        "autor": "Dante Alighieri",
+        "pagines": "432"
+    },
+    {
+        "titol": "Orgull i prejudici",
+        "autor": "Jane Austen",
+        "pagines": "279"
+    },
+    {
+        "titol": "El Gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "pagines": "180"
+    },
+    {
+        "titol": "Harry Potter i la pedra filosofal",
+        "autor": "J.K. Rowling",
+        "pagines": "309"
+    },
+    {
+        "titol": "El Senyor dels Anells",
+        "autor": "J.R.R. Tolkien",
+        "pagines": "1178"
+    },
+    {
+        "titol": "Crim i càstig",
+        "autor": "Fiódor Dostoievski",
+        "pagines": "671"
+    },
+    {
+        "titol": "Ulisses",
+        "autor": "James Joyce",
+        "pagines": "730"
+    },
+    {
+        "titol": "Anna Karenina",
+        "autor": "Lev Tolstoi",
+        "pagines": "864"
+    },
+    {
+        "titol": "Matar un rossinyol",
+        "autor": "Harper Lee",
+        "pagines": "281"
+    },
+    {
+        "titol": "El vigilant en el camp de sègol",
+        "autor": "J.D. Salinger",
+        "pagines": "214"
+    },
+    {
+        "titol": "Les aventures de Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "pagines": "307"
+    },
+    {
+        "titol": "La Metamorfosi",
+        "autor": "Franz Kafka",
+        "pagines": "201"
+    },
+    {
+        "titol": "Les mil i una nits",
+        "autor": "Anonim",
+        "pagines": "875"
+    },
+    {
+        "titol": "Viatge al centre de la Terra",
+        "autor": "Jules Verne",
+        "pagines": "240"
+    },
+    {
+        "titol": "El retrat de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "pagines": "254"
+    },
+    {
+        "titol": "La casa de Bernarda Alba",
+        "autor": "Federico García Lorca",
+        "pagines": "95"
+    },
+    {
+        "titol": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "pagines": "471"
+    },
+    {
+        "titol": "Rayuela",
+        "autor": "Julio Cortázar",
+        "pagines": "591"
+    },
+    {
+        "titol": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "pagines": "194"
+    },
+    {
+        "titol": "Dràcula",
+        "autor": "Bram Stoker",
+        "pagines": "418"
+    },
+    {
+        "titol": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "pagines": "576"
+    },
+    {
+        "titol": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "pagines": "1032"
+    },
+    {
+        "titol": "Sapiens",
+        "autor": "Yuval Noah Harari",
+        "pagines": "512"
+    },
+    {
+        "titol": "La Bíblia",
+        "autor": "Varis autors",
+        "pagines": "1500"
+    },
+    {
+        "titol": "El alquimista",
+        "autor": "Paulo Coelho",
+        "pagines": "192"
+    }
+]
