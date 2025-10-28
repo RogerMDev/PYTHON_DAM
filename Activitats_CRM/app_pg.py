@@ -1,8 +1,6 @@
-# app_pg.py
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-# pip install psycopg2-binary
 import psycopg
 from psycopg import OperationalError, IntegrityError
 
@@ -11,7 +9,7 @@ from psycopg import OperationalError, IntegrityError
 # =========================
 DB_CONFIG = {
     "host": "127.0.0.1",   # o 'localhost'
-    "port": 5432,          # cambia si usas otro (p. ej. 5433)
+    "port": 5432,          # config per PGADMIN
     "user": "crm_user",
     "password": "TuPassFuerte_123!",
     "dbname": "erp_demo",
